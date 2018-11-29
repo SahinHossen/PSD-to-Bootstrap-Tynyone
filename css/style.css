@@ -1,0 +1,145 @@
+@font-face {
+	src:url('../fonts/HelveticaNeueBold.ttf');
+	font-family: HelveticaNeueBold;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	color: #898989;
+	font-size: 16px;
+	font-weight: 400;
+	font-family: 'PT Sans', sans-serif;
+	line-height: 1.5;
+}
+/* Header Start */
+header {
+	background-color: #fcdb00;
+	padding: 20px 0;
+}
+.custom-menu ul li a {
+	color: #010101 !important;
+	font-size: 22px;
+	font-weight: 700;
+	padding:0 25px !important;
+}
+/* Header End */
+
+/* Banner Section Start */
+.slider {
+	background-color: #fcdb00;
+	padding-top: 30px;
+	padding-bottom: 100px;
+}
+.c-c-ind {
+	bottom: -80px;
+}
+.c-c-ind li {
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+}
+.carousel-content {
+	margin: 70px auto;
+}
+.custom-h1 {
+	color: #010101;
+	font-size: 32px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	word-spacing: 2px;
+	margin: 20px auto;
+}
+.custom-h5 {
+	color: #313841;
+	font-size: 20px;
+	letter-spacing: 1px;
+	word-spacing: 2px;
+	margin: 20px auto;
+}
+.carousel-content p {
+	color: #555555;
+	margin-bottom: 30px;
+}
+.content-icon {
+	margin: 20px auto;
+}
+.content-icon li i {
+	color: #010101;
+	font-size: 45px;
+	padding-right: 20px;
+}
+.carousel-img {}
+.carousel-img img {}
+/* Banner Section End */
+
+/* Features Section Start */
+.features {
+	margin: 50px auto;
+}
+.features-icon {
+	text-align: center;
+	margin: 10px auto;
+}
+.features-body {
+	margin: 50px auto;
+}
+.custom-h2 {
+	color: #010101;
+	font-size: 22px;
+	letter-spacing: 1px;
+	word-spacing: 2px;
+	margin: 10px auto;
+}
+/* Features Section End */
+
+/* Contact Section Start */
+.contact {
+	background-color: #010101;
+	padding: 50px 0;
+}
+.contact-title {
+	margin: 20px auto;
+}
+.contact-title h1 {
+	color: #fcdb00;
+}
+.contact-title h5 {
+	color: #898989;
+}
+.custom-form {
+	margin: 40px auto;
+}
+.custom-input {
+	padding: 25px 15px !important;
+}
+.custom-button {
+	color: #010101;
+	background-color: #fcdb00;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.social-media-icon{
+	margin: 40px auto;
+}
+.social-media-icon ul li a {
+	color: #fcdb00;
+	background-color: #010101;
+	font-size: 40px;
+	padding: 0 10px !important;
+}
+/* Contact Section End */
+/* Footer Start */
+footer {
+	background-color: #010101;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+.footer-content {
+	margin-bottom: 20px;
+}
+.footer-content p {
+	margin-bottom: 0;
+}
+/* Footer End */

@@ -1,0 +1,261 @@
+/* Extra small devices [COL] (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+	/* Header Start */
+	header {
+		padding: 10px 0;
+	}
+	.custom-menu ul li a {
+		text-align: center;
+		font-size: 18px;
+		padding:5px 0 !important;
+	}
+	/* Header End */
+
+	/* Banner Section Start */
+	.slider {
+		background-color: #fcdb00;
+		padding-top: 20px;
+		padding-bottom: 60px;
+	}
+	.c-c-ind {
+		bottom: -55px;
+	}
+	.carousel-content {
+		margin: 0;
+		text-align: center;
+	}
+	.custom-h1 {
+		font-size: 22px;
+		letter-spacing: 1px;
+		word-spacing: 1px;
+		margin-top: 0;
+		margin-bottom: 10px;
+	}
+	.custom-h5 {
+		font-size: 18px;
+		letter-spacing: 1px;
+		word-spacing: 1px;
+		margin: 15px auto;
+	}
+	.carousel-content p {
+		margin-bottom: 15px;
+	}
+	.content-icon {
+		margin: 0;
+	}
+	.content-icon li i {
+		font-size: 35px;
+		padding-right: 10px;
+	}
+	.carousel-img {
+		text-align: center;
+		margin-top: 20px;
+	}
+	/* Banner Section End */
+
+	/* Features Section Start */
+	.features {
+		margin: 30px auto;
+	}
+	.features-body {
+		margin: 15px auto;
+		text-align: center;
+	}
+	.custom-h2 {
+		font-size: 20px;
+		letter-spacing: 1px;
+		word-spacing: 1px;
+	}
+	/* Features Section End */
+
+	/* Contact Section Start */
+	.contact {
+		padding: 30px 0;
+	}
+	.custom-form {
+		margin: 15px auto;
+	}
+	.custom-input {
+		padding: 15px 10px !important;
+		margin-bottom: 15px;
+	}
+	.custom-button {
+		padding: 6px 0;
+	}
+	.social-media-icon{
+		margin: 15px auto;
+	}
+	/* Contact Section End */
+
+	/* Footer Start */
+	footer {
+		padding: 30px 0;
+	}
+	/* Footer End */
+}
+
+/* Small devices [SM] (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+	/* Header Start */
+	header {
+		padding: 20px 0;
+	}
+	.custom-menu ul li a {
+		text-align: right;
+		font-size: 20px;
+		padding:5px 0 !important;
+	}
+	/* Header End */
+
+	/* Banner Section Start */
+	.slider {
+		background-color: #fcdb00;
+		padding-top: 15px;
+		padding-bottom: 60px;
+	}
+	.c-c-ind {
+		bottom: -45px;
+	}
+	.carousel-content {
+		margin: 0;
+	}
+	.custom-h1 {
+		font-size: 25px;
+		letter-spacing: 1px;
+		word-spacing: 1px;
+		margin-top: 0;
+		margin-bottom: 10px;
+	}
+	.custom-h5 {
+		font-size: 18px;
+		letter-spacing: 1px;
+		word-spacing: 1px;
+		margin: 15px auto;
+	}
+	.carousel-content p {
+		margin-bottom: 15px;
+	}
+	.content-icon {
+		margin: 0;
+	}
+	.content-icon li i {
+		font-size: 35px;
+		padding-right: 10px;
+	}
+	.carousel-img {
+		margin-top: 25px;
+	}
+	/* Banner Section End */
+
+	/* Features Section Start */
+	.features {
+		margin: 40px auto;
+	}
+	.features-body {
+		margin: 20px auto;
+	}
+	.custom-h2 {
+		font-size: 20px;
+	}
+	/* Features Section End */
+
+	/* Contact Section Start */
+	.contact {
+		padding: 40px 0;
+	}
+	.custom-form {
+		margin: 20px auto;
+	}
+	.custom-input {
+		padding: 20px 10px !important;
+		margin-bottom: 20px;
+	}
+	.custom-button {
+		padding: 8px 0;
+	}
+	.social-media-icon{
+		margin: 20px auto;
+	}
+	/* Contact Section End */
+
+	/* Footer Start */
+	footer {
+		padding: 40px 0;
+	}
+	/* Footer End */
+
+}
+
+/* Medium devices [MD] (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/* Header Start */
+	.custom-menu ul li a {
+		padding:0 15px!important;
+	}
+	/* Header End */
+
+	/* Banner Section Start */
+	.slider {
+		background-color: #fcdb00;
+		padding-top: 20px;
+		padding-bottom: 80px;
+	}
+	.c-c-ind {
+		bottom: -65px;
+	}
+	.carousel-content {
+		margin: 35px auto;
+	}
+	/* Banner Section End */
+
+	/* Features Section Start */
+	.features {
+		margin: 50px auto;
+	}
+	.features-body {
+		margin: 30px auto;
+	}
+	.custom-h2 {
+		font-size: 20px;
+	}
+	/* Features Section End */
+
+	/* Contact Section Start */
+	.contact {
+		padding: 50px 0;
+	}
+	.custom-form {
+		margin: 30px auto;
+	}
+	.social-media-icon{
+		margin: 30px auto;
+	}
+	/* Contact Section End */
+
+	/* Footer Start */
+	footer {
+		padding: 50px 0;
+	}
+	/* Footer End */
+
+}
+
+/* Large devices [LG](desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/* Contact Section Start */
+	.custom-form {
+		margin: 30px auto;
+	}
+	.social-media-icon{
+		margin: 30px auto;
+	}
+	/* Contact Section End */
+
+}
+
+/* Extra large devices [XL] (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	
+}
