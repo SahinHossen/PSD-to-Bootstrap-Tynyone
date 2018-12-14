@@ -14,8 +14,6 @@
 
 	/* Banner Section Start */
 	.slider {
-		background-color: #fcdb00;
-		padding-top: 20px;
 		padding-bottom: 60px;
 	}
 	.c-c-ind {
@@ -26,7 +24,7 @@
 		text-align: center;
 	}
 	.custom-h1 {
-		font-size: 22px;
+		font-size: 21px;
 		letter-spacing: 1px;
 		word-spacing: 1px;
 		margin-top: 0;
@@ -50,17 +48,19 @@
 	}
 	.carousel-img {
 		text-align: center;
-		margin-top: 20px;
 	}
 	/* Banner Section End */
 
 	/* Features Section Start */
 	.features {
-		margin: 30px auto;
+		margin: 40px auto;
 	}
 	.features-body {
-		margin: 15px auto;
+		margin-top: 15px;
 		text-align: center;
+	}
+	.features-icon i {
+		font-size: 40px;
 	}
 	.custom-h2 {
 		font-size: 20px;
@@ -71,7 +71,8 @@
 
 	/* Contact Section Start */
 	.contact {
-		padding: 30px 0;
+		padding-top: 40px;
+		padding-bottom: 10px;
 	}
 	.custom-form {
 		margin: 15px auto;
@@ -84,13 +85,19 @@
 		padding: 6px 0;
 	}
 	.social-media-icon{
-		margin: 15px auto;
+		margin-top: 15px;
+	}
+	.social-media-icon ul li a {
+		padding: 0 8px !important;
 	}
 	/* Contact Section End */
 
 	/* Footer Start */
 	footer {
-		padding: 30px 0;
+		padding: 40px 0;
+	}
+	.footer-content {
+		text-align: center;
 	}
 	/* Footer End */
 }
@@ -111,8 +118,6 @@
 
 	/* Banner Section Start */
 	.slider {
-		background-color: #fcdb00;
-		padding-top: 15px;
 		padding-bottom: 60px;
 	}
 	.c-c-ind {
@@ -122,7 +127,7 @@
 		margin: 0;
 	}
 	.custom-h1 {
-		font-size: 25px;
+		font-size: 21px;
 		letter-spacing: 1px;
 		word-spacing: 1px;
 		margin-top: 0;
@@ -130,8 +135,8 @@
 	}
 	.custom-h5 {
 		font-size: 18px;
-		letter-spacing: 1px;
-		word-spacing: 1px;
+		letter-spacing: 0;
+		word-spacing: 0;
 		margin: 15px auto;
 	}
 	.carousel-content p {
@@ -144,9 +149,6 @@
 		font-size: 35px;
 		padding-right: 10px;
 	}
-	.carousel-img {
-		margin-top: 25px;
-	}
 	/* Banner Section End */
 
 	/* Features Section Start */
@@ -154,7 +156,10 @@
 		margin: 40px auto;
 	}
 	.features-body {
-		margin: 20px auto;
+		margin-top: 20px;
+	}
+	.features-icon i {
+		font-size: 40px;
 	}
 	.custom-h2 {
 		font-size: 20px;
@@ -163,7 +168,8 @@
 
 	/* Contact Section Start */
 	.contact {
-		padding: 40px 0;
+		padding-top: 40px;
+		padding-bottom: 10px;
 	}
 	.custom-form {
 		margin: 20px auto;
@@ -176,13 +182,16 @@
 		padding: 8px 0;
 	}
 	.social-media-icon{
-		margin: 20px auto;
+		margin-top: 20px;
 	}
 	/* Contact Section End */
 
 	/* Footer Start */
 	footer {
 		padding: 40px 0;
+	}
+	.footer-content {
+		text-align: center;
 	}
 	/* Footer End */
 
@@ -198,8 +207,6 @@
 
 	/* Banner Section Start */
 	.slider {
-		background-color: #fcdb00;
-		padding-top: 20px;
 		padding-bottom: 80px;
 	}
 	.c-c-ind {
@@ -215,7 +222,10 @@
 		margin: 50px auto;
 	}
 	.features-body {
-		margin: 30px auto;
+		margin-top: 30px;
+	}
+	.features-icon i {
+		font-size: 40px;
 	}
 	.custom-h2 {
 		font-size: 20px;
@@ -224,13 +234,17 @@
 
 	/* Contact Section Start */
 	.contact {
-		padding: 50px 0;
+		padding-top: 50px;
+		padding-bottom: 20px;
 	}
 	.custom-form {
 		margin: 30px auto;
 	}
+	.custom-input {
+		padding: 20px 10px !important;
+	}
 	.social-media-icon{
-		margin: 30px auto;
+		margin-top: 30px;
 	}
 	/* Contact Section End */
 
@@ -248,8 +262,11 @@
 	.custom-form {
 		margin: 30px auto;
 	}
+	.custom-input {
+		padding: 22px 10px !important;
+	}
 	.social-media-icon{
-		margin: 30px auto;
+		margin-top: 30px;
 	}
 	/* Contact Section End */
 
